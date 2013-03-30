@@ -4,6 +4,7 @@ group :development do
   gem 'rspec'
   gem 'guard'
   gem 'guard-rspec'
+  gem 'rb-inotify', '~> 0.9'
 
   # OS X: Uncomment one of the following for visual notifications
   # gem 'growl'
